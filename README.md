@@ -4,6 +4,10 @@
 
 Calendar Payever is a web application designed to help users manage their appointments and schedules efficiently. It features a calendar view, appointment management, and various other tools to enhance productivity.
 
+The website is hosted here: https://payever-assessment.vercel.app/
+
+[![Live Preview](https://img.shields.io/badge/Live%20Preview-Click%20Here-brightgreen)](https://payever-assessment.vercel.app/)
+
 ## Features
 
 - View current time
