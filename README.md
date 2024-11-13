@@ -22,7 +22,7 @@ To install and run the application locally, follow these steps:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/calendar-payever.git
+   git clone https://github.com/artemb315/Angular-Material-Calendar.git
    cd calendar-payever
    ```
 
